@@ -1,12 +1,12 @@
 {
-  "build": 957,
-  "channel": "release",
-  "exe_name": "CareerFlip-5-setup.exe",
-  "exe_sha256": "c02941412cfe5f166f4f11ed4bebc037155c05b29692a4e493a01137eab1148e",
-  "exe_size_bytes": 170491848,
-  "exe_url": "https://github.com/careerflip-ai/releases/releases/download/v5-build957/CareerFlip-5-setup.exe",
-  "published_at": "2026-11-13T18:20:56.216748+00:00",
-  "release_url": "https://github.com/careerflip-ai/releases/releases/tag/v5-build957",
   "schema_version": 1,
-  "version": "5"
+  "channel": "release",
+  "version": "5",
+  "build": 958,
+  "release_url": "https://github.com/careerflip-ai/releases/releases/tag/v5-build958",
+  "exe_url": "https://github.com/careerflip-ai/releases/releases/download/v5-build958/CareerFlip-5-setup.exe",
+  "exe_name": "CareerFlip-5-setup.exe",
+  "exe_sha256": "689ac51ec1e3bfd0cc5746a4fc33624d9d8c007c8a81472776bf7cc320a1972b",
+  "exe_size_bytes": 169279016,
+  "published_at": "2026-11-15T22:55:48.830795+00:00"
 }
